@@ -11,13 +11,13 @@
     font-family: 'Amazon Ember V2', sans-serif;
 
 }
-.navBar{
-    /* border: 2px solid white; */
+.navBar {
+    width: 100%;
     position: fixed;
     top: 0px;
     z-index: 10;
     height: 66px;
-       border-bottom-left-radius: 12px;
+    border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
     background-color: rgba(255, 255, 255, 0);
 
